@@ -17,22 +17,34 @@ body {
 }*/
 
 /* unvisited link */
-a:link {
+h3 a:link {
+    color: darkorange;
+}
+p a:link {
     color: darkorange;
 }
 
 /* visited link */
-a:visited {
+h3 a:visited {
+    color: orange;
+}
+p a:visited {
     color: orange;
 }
 
 /* mouse over link */
-a:hover {
+h3 a:hover {
+    color: orange;
+}
+p a:hover {
     color: orange;
 }
 
 /* selected link */
-a:active {
+h3 a:active {
+    color: lightgreen;
+}
+p a:active {
     color: lightgreen;
 }
 
