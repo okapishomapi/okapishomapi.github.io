@@ -26,10 +26,8 @@ hr {
 }
 
 h1 {
-    font-size: 2em;
-    font-weight: bolder;
-    text-transform: uppercase;
-    color: #000;
+    font-size: 18em;
+    color: lightgreen;
     margin: 0;
 }
 
@@ -41,7 +39,6 @@ h2 {
 
 h3 {
     font-size: 1.4em;
-    text-transform: uppercase;
     color: #000;
     margin-top: 0;
 }
