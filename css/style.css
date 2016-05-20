@@ -47,12 +47,15 @@ h4 {
     margin: 15px 0 0;
 }
 
-p,
-a {
+p, p a:{
     line-height: 1.7em;
     font-weight: lighter;
     letter-spacing: 1px;
     font-size: 16px;
+}
+
+h3 a {
+	font-weight: lighter;
 }
 
 li {
