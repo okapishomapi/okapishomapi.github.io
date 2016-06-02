@@ -33,8 +33,9 @@ hr {
 
 h1 {
     font-size: 18em;
-    color: lightgreen;
+    /*color: lightgreen;*/
 	/*color:lightgrey;*/
+	color: darkorange;
     margin: 0;
 }
 
