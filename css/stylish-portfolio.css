@@ -77,9 +77,8 @@ p a:active {
 
 .centerIcon{
 	display: inline-block;
-    width: 100%;
     text-align: center;
-	
+	padding-left: 10px;
 }
 
 .btn-dark:hover,

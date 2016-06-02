@@ -6,6 +6,10 @@ body {
     padding-bottom: 60px;
 }
 
+.bolder {
+	    color: #4f4f4f;
+}
+
 .container {
     background: #fff;
     padding: 70px 75px;
@@ -27,7 +31,8 @@ hr {
 
 h1 {
     font-size: 18em;
-    color: lightgreen;
+    /*color: lightgreen;*/
+	color:lightgrey;
     margin: 0;
 }
 
